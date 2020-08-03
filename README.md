@@ -1,8 +1,9 @@
 # Nasy
 
-![My GitHub](https://github-readme-stats.vercel.app/api?username=nasyxx&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasyxx&theme=dracula&hide=html,jupyter+notebook&count_private=true&show_icons=true)
+<p align="center">
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=nasyxx&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasyxx&theme=dracula&hide=html,jupyter+notebook&count_private=true&show_icons=true"
+</p>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-158-blue)
