@@ -5,15 +5,29 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasyxx&theme=dracula&hide=html,jupyter+notebook&count_private=true&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-13.94M%20Lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-158-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-15.9%20million%20Lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 1,264 Contributions in year 2020
+ > 
+> 📦 Used 0 Bytes in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 102 Public Repository 
+ > 
+> 🔑 None Owned Private Repository 
 
 **I'm a night 🦉** 
 
 ```text
-🌞 Morning    111 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.7% 
-🌆 Daytime    194 commits    ██████░░░░░░░░░░░░░░░░░░░   27.44% 
-🌃 Evening    220 commits    ███████░░░░░░░░░░░░░░░░░░   31.12% 
-🌙 Night      182 commits    ██████░░░░░░░░░░░░░░░░░░░   25.74%
+🌞 Morning    113 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.94% 
+🌆 Daytime    194 commits    ██████░░░░░░░░░░░░░░░░░░░   27.36% 
+🌃 Evening    220 commits    ███████░░░░░░░░░░░░░░░░░░   31.03% 
+🌙 Night      182 commits    ██████░░░░░░░░░░░░░░░░░░░   25.67%
 
 ```
 
