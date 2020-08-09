@@ -6,11 +6,11 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-14.2%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-15.9%20million%20Lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,514 Contributions in year 2020
+> 🏆 1,520 Contributions in year 2020
  > 
 > 📦 Used 56.3 kB in GitHub's Storage 
  > 
@@ -24,8 +24,8 @@
 
 ```text
 🌞 Morning    132 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.4% 
-🌆 Daytime    219 commits    ██████░░░░░░░░░░░░░░░░░░░   27.2% 
-🌃 Evening    248 commits    ███████░░░░░░░░░░░░░░░░░░   30.81% 
+🌆 Daytime    217 commits    ██████░░░░░░░░░░░░░░░░░░░   26.96% 
+🌃 Evening    250 commits    ███████░░░░░░░░░░░░░░░░░░   31.06% 
 🌙 Night      206 commits    ██████░░░░░░░░░░░░░░░░░░░   25.59%
 
 ```
