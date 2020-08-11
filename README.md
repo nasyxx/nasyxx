@@ -6,13 +6,13 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-13.8%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-14.3%20million%20Lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 1,593 Contributions in year 2020
  > 
-> 📦 Used 56.3 kB in GitHub's Storage 
+> 📦 Used 56.4 kB in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
