@@ -6,19 +6,19 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-15.9%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.8%20million%20Lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 1,581 Contributions in 2020
+> 🏆 1,581 Contributions in the year 2020
  > 
-> 📦 Used 56.4 kB in GitHub's Storage 
+> 📦 56.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 46 Public Repositories 
+> 📜 46 Public repositories
  > 
-> 🔑 11 Owned Private Repositories 
+> 🔑 11 Private repositories 
 
 **I'm a Night 🦉** 
 
@@ -31,15 +31,15 @@
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: America/New_York
+⌚︎ Time zone: America/New_York
 
-💬 Languages: 
+💬 Programming Languages: 
 Other                    26 hrs              █████████████████████████   100.0%
 
-🔥 Editors: 
+🔥 Code Editors: 
 Chrome                   23 hrs 26 mins      ██████████████████████░░░   90.14% 
 Zsh                      2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.6% 
 Emacs                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
