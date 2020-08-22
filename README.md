@@ -6,7 +6,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.1%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -37,11 +37,11 @@
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    13 hrs 31 mins      █████████████████████████   100.0%
+Other                    17 hrs 33 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Chrome                   12 hrs 12 mins      ██████████████████████░░░   90.23% 
-Zsh                      1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.77%
+Chrome                   15 hrs 46 mins      ██████████████████████░░░   89.86% 
+Zsh                      1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.14%
 
 ```
 
