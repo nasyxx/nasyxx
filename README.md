@@ -6,13 +6,13 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.9%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 1,583 Contributions in the Year 2020
  > 
-> 📦 56.5 kB Used in Github's Storage 
+> 📦 56.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -37,11 +37,11 @@
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    35 hrs 56 mins      █████████████████████████   100.0%
+Other                    36 hrs 11 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Chrome                   33 hrs 2 mins       ███████████████████████░░   91.93% 
-Zsh                      2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.07%
+Chrome                   32 hrs 36 mins      ██████████████████████░░░   90.1% 
+Zsh                      3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.9%
 
 ```
 
