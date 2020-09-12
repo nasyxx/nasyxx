@@ -10,11 +10,11 @@
 ![Sponsor](https://img.shields.io/static/v1.svg?label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=flat&color=pink)
  
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.6%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,588 Contributions in the Year 2020
+> 🏆 1,594 Contributions in the Year 2020
  > 
 > 📦 56.6 kB Used in Github's Storage 
  > 
