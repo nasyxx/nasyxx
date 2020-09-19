@@ -9,6 +9,8 @@
 
 ![Sponsor](https://img.shields.io/static/v1.svg?label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=flat&color=pink)
  
+Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?theme=rule34)th vistor!
+ 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.2%20million%20lines%20of%20code-blue)
 
