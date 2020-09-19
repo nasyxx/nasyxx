@@ -10,7 +10,7 @@
 ![Sponsor](https://img.shields.io/static/v1.svg?label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=flat&color=pink)
  
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.2%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -41,11 +41,11 @@
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    45 hrs 50 mins      █████████████████████████   100.0%
+Other                    45 hrs 32 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Chrome                   41 hrs 10 mins      ██████████████████████░░░   89.82% 
-Zsh                      4 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.18%
+Chrome                   40 hrs 30 mins      ██████████████████████░░░   88.96% 
+Zsh                      5 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   11.04%
 
 ```
 
