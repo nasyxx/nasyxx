@@ -22,7 +22,7 @@ Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?the
  > 
 > 💼 Opted to Hire
  > 
-> 📜 50 Public Repositories
+> 📜 49 Public Repositories
  > 
 > 🔑 11 Private Repositories 
 
