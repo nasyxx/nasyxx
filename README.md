@@ -16,7 +16,7 @@ Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?the
 
 **🐱 My Github Data** 
 
-> 🏆 1,624 Contributions in the Year 2020
+> 🏆 1,623 Contributions in the Year 2020
  > 
 > 📦 58.3 kB Used in Github's Storage 
  > 
@@ -43,11 +43,11 @@ Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?the
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    36 hrs 47 mins      █████████████████████████   100.0%
+Other                    40 hrs 13 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Chrome                   30 hrs 14 mins      ████████████████████░░░░░   82.21% 
-Zsh                      6 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.79%
+Chrome                   32 hrs 44 mins      ████████████████████░░░░░   81.39% 
+Zsh                      7 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.61%
 
 ```
 
