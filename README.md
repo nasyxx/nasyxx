@@ -12,11 +12,11 @@
 Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?theme=rule34)th vistor!
  
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.3%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,633 Contributions in the Year 2020
+> 🏆 1,638 Contributions in the Year 2020
  > 
 > 📦 58.5 kB Used in Github's Storage 
  > 
@@ -30,8 +30,8 @@ Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?the
 
 ```text
 🌞 Morning    141 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.36% 
-🌆 Daytime    213 commits    ██████░░░░░░░░░░░░░░░░░░░   26.23% 
-🌃 Evening    247 commits    ███████░░░░░░░░░░░░░░░░░░   30.42% 
+🌆 Daytime    212 commits    ██████░░░░░░░░░░░░░░░░░░░   26.11% 
+🌃 Evening    248 commits    ███████░░░░░░░░░░░░░░░░░░   30.54% 
 🌙 Night      211 commits    ██████░░░░░░░░░░░░░░░░░░░   25.99%
 
 ```
@@ -43,11 +43,11 @@ Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?the
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    14 hrs 4 mins       █████████████████████████   100.0%
+Other                    14 hrs 27 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Chrome                   7 hrs 36 mins       █████████████░░░░░░░░░░░░   53.99% 
-Zsh                      6 hrs 28 mins       ███████████░░░░░░░░░░░░░░   46.01%
+Zsh                      8 hrs 47 mins       ███████████████░░░░░░░░░░   60.8% 
+Chrome                   5 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   39.2%
 
 ```
 
