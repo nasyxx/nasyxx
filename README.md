@@ -18,7 +18,7 @@ Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?the
 
 > 🏆 1,656 Contributions in the Year 2020
  > 
-> 📦 58.6 kB Used in Github's Storage 
+> 📦 58.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
