@@ -12,7 +12,7 @@
 Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?theme=rule34)th vistor!
  
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.8%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -29,10 +29,10 @@ Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?the
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    141 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.36% 
-🌆 Daytime    216 commits    ██████░░░░░░░░░░░░░░░░░░░   26.6% 
-🌃 Evening    251 commits    ███████░░░░░░░░░░░░░░░░░░   30.91% 
-🌙 Night      204 commits    ██████░░░░░░░░░░░░░░░░░░░   25.12%
+🌞 Morning    141 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.34% 
+🌆 Daytime    216 commits    ██████░░░░░░░░░░░░░░░░░░░   26.57% 
+🌃 Evening    252 commits    ███████░░░░░░░░░░░░░░░░░░   31.0% 
+🌙 Night      204 commits    ██████░░░░░░░░░░░░░░░░░░░   25.09%
 
 ```
 
