@@ -12,27 +12,27 @@
 Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?theme=rule34)th vistor!
  
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-35.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.3%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,666 Contributions in the Year 2020
+> 🏆 1,668 Contributions in the Year 2020
  > 
 > 📦 58.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 51 Public Repositories
+> 📜 52 Public Repositories
  > 
 > 🔑 11 Private Repositories 
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    141 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
-🌆 Daytime    219 commits    ██████░░░░░░░░░░░░░░░░░░░   26.9% 
-🌃 Evening    252 commits    ███████░░░░░░░░░░░░░░░░░░   30.96% 
-🌙 Night      202 commits    ██████░░░░░░░░░░░░░░░░░░░   24.82%
+🌞 Morning    141 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.3% 
+🌆 Daytime    220 commits    ██████░░░░░░░░░░░░░░░░░░░   26.99% 
+🌃 Evening    252 commits    ███████░░░░░░░░░░░░░░░░░░   30.92% 
+🌙 Night      202 commits    ██████░░░░░░░░░░░░░░░░░░░   24.79%
 
 ```
 
