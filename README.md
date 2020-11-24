@@ -12,7 +12,7 @@
 Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?theme=rule34)th vistor!
  
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -53,7 +53,7 @@ Zsh                      2 hrs 5 mins        █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/nasyxx/nasyxx/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/nasyxx/nasyxx/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
