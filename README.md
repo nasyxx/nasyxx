@@ -12,7 +12,7 @@
 Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?theme=rule34)th vistor!
  
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.5%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -41,11 +41,11 @@ Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?the
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    25 hrs 18 mins      █████████████████████████   100.0%
+Other                    17 hrs 22 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Chrome                   23 hrs 9 mins       ███████████████████████░░   91.52% 
-Zsh                      2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.48%
+Chrome                   15 hrs 48 mins      ██████████████████████░░░   91.02% 
+Zsh                      1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.98%
 
 ```
 
