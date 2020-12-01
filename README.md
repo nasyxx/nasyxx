@@ -12,10 +12,12 @@
 Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?theme=rule34)th vistor!
  
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.6%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
+> 🏆 1,687 Contributions in the Year 2020
+ > 
 > 📦 59.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
