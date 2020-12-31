@@ -16,7 +16,7 @@ Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?the
 
 **🐱 My Github Data** 
 
-> 🏆 1,481 Contributions in the Year 2020
+> 🏆 1,482 Contributions in the Year 2020
  > 
 > 📦 59.0 kB Used in Github's Storage 
  > 
@@ -26,17 +26,6 @@ Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?the
  > 
 > 🔑 11 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.09% 
-🌆 Daytime    198 commits    ███████░░░░░░░░░░░░░░░░░░   27.62% 
-🌃 Evening    235 commits    ████████░░░░░░░░░░░░░░░░░   32.78% 
-🌙 Night      183 commits    ██████░░░░░░░░░░░░░░░░░░░   25.52%
-
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -49,10 +38,6 @@ Other                    7 hrs 36 mins       ███████████�
 Zsh                      7 hrs 36 mins       █████████████████████████   100.0%
 
 ```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/nasyxx/nasyxx/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
