@@ -14,18 +14,6 @@ Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?the
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-597883%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 1,482 Contributions in the Year 2020
- > 
-> 📦 59.0 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 53 Public Repositories 
- > 
-> 🔑 11 Private Repositories  
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
