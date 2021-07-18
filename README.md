@@ -35,7 +35,7 @@ Emacs                    4 mins              ██░░░░░░░░░�
 ```
 
 
- Last Updated on 17/07/2021
+ Last Updated on 18/07/2021
 <!--END_SECTION:waka-->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nasyxx.nasyxx) -->
