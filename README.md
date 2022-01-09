@@ -39,7 +39,7 @@ Zsh                      2 hrs 29 mins       █░░░░░░░░░░�
 ```
 
 
- Last Updated on 08/01/2022
+ Last Updated on 09/01/2022
 <!--END_SECTION:waka-->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nasyxx.nasyxx) -->
