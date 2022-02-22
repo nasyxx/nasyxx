@@ -15,8 +15,6 @@
 Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?theme=rule34)th vistor!
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C928%20hrs%2026%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -39,7 +37,7 @@ Zsh                      2 hrs 18 mins       ███░░░░░░░░�
 ```
 
 
- Last Updated on 22/02/2022 05:24:47 UTC
+ Last Updated on 22/02/2022 06:33:34 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nasyxx.nasyxx) -->
