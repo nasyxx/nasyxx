@@ -15,7 +15,7 @@
 Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?theme=rule34)th vistor!
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C521%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
@@ -25,20 +25,20 @@ Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?the
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Org                      4 hrs 46 mins       ██████████████████░░░░░░░   74.7% 
-sh                       1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   22.7% 
-Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.24% 
-Git                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77% 
-Emacs Lisp               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
+Org                      4 hrs 19 mins       ████████████████░░░░░░░░░   65.48% 
+sh                       2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   32.0% 
+Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.2% 
+Git                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74% 
+Emacs Lisp               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
 
 🔥 Editors: 
-Emacs                    4 hrs 56 mins       ███████████████████░░░░░░   77.3% 
-Zsh                      1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   22.7%
+Emacs                    4 hrs 29 mins       █████████████████░░░░░░░░   68.0% 
+Zsh                      2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   32.0%
 
 ```
 
 
- Last Updated on 22/07/2022 05:40:50 UTC
+ Last Updated on 22/07/2022 06:46:25 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nasyxx.nasyxx) -->
