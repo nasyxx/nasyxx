@@ -15,30 +15,12 @@
 Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?theme=rule34)th vistor!
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C607%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C612%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-⌚︎ Time Zone: America/Chicago
-
-💬 Programming Languages: 
-sh                       11 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   43.0% 
-Python                   11 hrs 28 mins      ██████████░░░░░░░░░░░░░░░   42.66% 
-Org                      2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   7.55% 
-Nix                      1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.29% 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
-
-🔥 Editors: 
-Emacs                    15 hrs 19 mins      ██████████████░░░░░░░░░░░   57.0% 
-Zsh                      11 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   43.0%
-
-```
-
-
- Last Updated on 04/09/2022 05:54:04 UTC
+ Last Updated on 04/09/2022 06:43:47 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nasyxx.nasyxx) -->
