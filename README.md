@@ -19,26 +19,8 @@ Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?the
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-⌚︎ Time Zone: America/Chicago
-
-💬 Programming Languages: 
-sh                       5 hrs 34 mins       ███████████░░░░░░░░░░░░░░   45.72% 
-Python                   3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   27.46% 
-Org                      2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.36% 
-Nix                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.0% 
-TOML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28%
-
-🔥 Editors: 
-Emacs                    6 hrs 37 mins       █████████████░░░░░░░░░░░░   54.28% 
-Zsh                      5 hrs 34 mins       ███████████░░░░░░░░░░░░░░   45.72%
-
-```
-
-
- Last Updated on 14/09/2022 04:59:16 UTC
+ Last Updated on 14/09/2022 06:21:01 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nasyxx.nasyxx) -->
