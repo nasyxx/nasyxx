@@ -17,12 +17,12 @@ Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?the
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C170%20hrs%2046%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Chicago
+🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
 Python                   8 hrs 2 mins        ██████████████░░░░░░░░░░░   56.07 % 
@@ -34,11 +34,10 @@ Nix                      45 mins             █░░░░░░░░░░�
 🔥 Editors: 
 Emacs                    10 hrs 53 mins      ███████████████████░░░░░░   75.82 % 
 Zsh                      3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
-
 ```
 
 
- Last Updated on 22/02/2023 17:21:12 UTC
+ Last Updated on 22/02/2023 18:25:57 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nasyxx.nasyxx) -->
