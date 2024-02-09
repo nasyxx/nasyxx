@@ -15,7 +15,7 @@
 Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?theme=rule34)th vistor!
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C284%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C286%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
 
@@ -25,18 +25,18 @@ Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?the
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Other                    2 hrs 57 mins       ██████████████░░░░░░░░░░░   57.14 % 
-Org                      1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-Python                   45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Other                    3 hrs 13 mins       █████████████░░░░░░░░░░░░   51.04 % 
+Python                   1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
+Org                      1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-Chrome                   2 hrs 47 mins       █████████████░░░░░░░░░░░░   53.84 % 
-Emacs                    2 hrs 23 mins       ████████████░░░░░░░░░░░░░   46.16 % 
+Emacs                    3 hrs 16 mins       █████████████░░░░░░░░░░░░   51.65 % 
+Chrome                   3 hrs 3 mins        ████████████░░░░░░░░░░░░░   48.35 % 
 ```
 
 
- Last Updated on 09/02/2024 06:32:32 UTC
+ Last Updated on 09/02/2024 07:25:33 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nasyxx.nasyxx) -->
