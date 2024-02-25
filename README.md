@@ -15,7 +15,7 @@
 Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?theme=rule34)th vistor!
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C311%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C311%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
 
@@ -37,7 +37,7 @@ Chrome                   6 hrs 30 mins       ███████████�
 ```
 
 
- Last Updated on 25/02/2024 18:29:18 UTC
+ Last Updated on 25/02/2024 22:17:51 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nasyxx.nasyxx) -->
