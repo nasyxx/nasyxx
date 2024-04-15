@@ -15,7 +15,9 @@
 Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?theme=rule34)th vistor!
  
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C388%20hrs%2015%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -23,19 +25,19 @@ Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?the
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Other                    9 hrs 52 mins       █████████████████████░░░░   85.50 % 
-Python                   1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Org                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-BibTeX                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Other                    9 hrs 52 mins       █████████████████████░░░░   84.90 % 
+Python                   1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Org                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+BibTeX                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-Emacs                    11 hrs 23 mins      █████████████████████████   98.60 % 
-Chrome                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Emacs                    11 hrs 28 mins      █████████████████████████   98.61 % 
+Chrome                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 ```
 
 
- Last Updated on 15/04/2024 05:26:18 UTC
+ Last Updated on 15/04/2024 09:18:10 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nasyxx.nasyxx) -->
