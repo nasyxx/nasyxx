@@ -17,7 +17,7 @@ Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?the
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C543%20hrs%2026%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-94.8%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -25,19 +25,19 @@ Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?the
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   5 hrs 50 mins       ███████████████░░░░░░░░░░   59.33 % 
-Other                    3 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   35.14 % 
-TOML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Python                   2 hrs 34 mins       ████████████░░░░░░░░░░░░░   49.27 % 
+Other                    2 hrs 21 mins       ███████████░░░░░░░░░░░░░░   45.23 % 
+TOML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+SSH Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-Emacs                    6 hrs 23 mins       ████████████████░░░░░░░░░   64.86 % 
-Chrome                   3 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   35.14 % 
+Emacs                    2 hrs 51 mins       ██████████████░░░░░░░░░░░   54.77 % 
+Chrome                   2 hrs 21 mins       ███████████░░░░░░░░░░░░░░   45.23 % 
 ```
 
 
- Last Updated on 17/07/2024 07:08:04 UTC
+ Last Updated on 17/07/2024 09:08:09 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nasyxx.nasyxx) -->
