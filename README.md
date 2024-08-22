@@ -15,9 +15,9 @@
 Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?theme=rule34)th vistor!
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C589%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C594%20hrs%206%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -25,18 +25,19 @@ Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?the
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   7 hrs 51 mins       ██████████████████████░░░   89.71 % 
-Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-CSV                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Git                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Python                   10 hrs 36 mins      ████████████████████████░   94.08 % 
+Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Git                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Emacs                    8 hrs 45 mins       █████████████████████████   100.00 % 
+Emacs                    11 hrs 16 mins      █████████████████████████   99.98 % 
+Chrome                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 
- Last Updated on 22/08/2024 05:07:37 UTC
+ Last Updated on 22/08/2024 10:09:02 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nasyxx.nasyxx) -->
