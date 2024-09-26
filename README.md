@@ -15,9 +15,9 @@
 Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?theme=rule34)th vistor!
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C663%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C666%20hrs%205%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -25,19 +25,19 @@ Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?the
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   20 hrs 3 mins       █████████████████████░░░░   84.36 % 
-Other                    3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-TOML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-Git                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-fish                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Python                   19 hrs 5 mins       █████████████████████░░░░   83.70 % 
+Other                    3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+TOML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Git                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+fish                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-Emacs                    23 hrs 18 mins      ████████████████████████░   98.00 % 
-Chrome                   28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Emacs                    22 hrs 20 mins      ████████████████████████░   97.92 % 
+Chrome                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 
- Last Updated on 26/09/2024 05:09:19 UTC
+ Last Updated on 26/09/2024 07:06:27 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nasyxx.nasyxx) -->
