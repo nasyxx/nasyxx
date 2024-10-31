@@ -15,9 +15,9 @@
 Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?theme=rule34)th vistor!
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C710%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C710%20hrs%2040%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -25,18 +25,19 @@ Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?the
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Typst                    2 hrs 38 mins       ██████████████░░░░░░░░░░░   55.70 % 
-Python                   1 hr 34 mins        ████████░░░░░░░░░░░░░░░░░   33.30 % 
-Other                    30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Typst                    7 hrs 28 mins       ████████████████░░░░░░░░░   65.57 % 
+Other                    2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Python                   1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+TeX                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Emacs                    4 hrs 7 mins        ██████████████████████░░░   86.83 % 
-Chrome                   37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Emacs                    9 hrs 1 min         ████████████████████░░░░░   79.21 % 
+Chrome                   2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
 ```
 
 
- Last Updated on 31/10/2024 03:12:57 UTC
+ Last Updated on 31/10/2024 06:34:56 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nasyxx.nasyxx) -->
