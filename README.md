@@ -25,14 +25,16 @@ Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?the
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Typst                    32 mins             █████████████████████████   100.00 % 
+Typst                    32 mins             █████████████████████████   98.83 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
 Emacs                    32 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/09/2025 05:16:43 UTC
+ Last Updated on 14/09/2025 06:18:48 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nasyxx.nasyxx) -->
