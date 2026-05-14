@@ -15,7 +15,7 @@
 Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?theme=rule34)th vistor!
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C784%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C802%20hrs%2054%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.35%20million%20lines%20of%20code-blue?style=flat)
 
@@ -25,19 +25,20 @@ Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?the
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   18 hrs 35 mins      ███████████░░░░░░░░░░░░░░   45.80 % 
-Markdown                 8 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
-JavaScript               2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-TeX                      2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-HTML                     1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Python                   21 hrs 42 mins      ███████████░░░░░░░░░░░░░░   45.47 % 
+Markdown                 7 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+HTML                     5 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Swift                    2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+JavaScript               2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 
 🔥 Editors: 
-Unknown Editor           39 hrs 36 mins      ████████████████████████░   97.62 % 
-Emacs                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Unknown Editor           44 hrs 39 mins      ███████████████████████░░   93.55 % 
+OpenCode                 2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Emacs                    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 ```
 
 
- Last Updated on 14/05/2026 07:51:12 UTC
+ Last Updated on 14/05/2026 10:30:22 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nasyxx.nasyxx) -->
