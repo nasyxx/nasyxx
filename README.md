@@ -25,20 +25,20 @@ Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?the
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   11 hrs 50 mins      █████████░░░░░░░░░░░░░░░░   37.22 % 
-HTML                     5 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Markdown                 3 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Swift                    3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-JSON                     2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Python                   7 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   33.07 % 
+HTML                     5 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+Markdown                 3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Swift                    2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+JSON                     1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
 
 🔥 Editors: 
-Unknown Editor           25 hrs 50 mins      ████████████████████░░░░░   81.23 % 
-OpenCode                 5 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Emacs                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Unknown Editor           17 hrs 18 mins      ███████████████████░░░░░░   74.69 % 
+OpenCode                 5 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+Emacs                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 
 
- Last Updated on 20/05/2026 08:35:33 UTC
+ Last Updated on 20/05/2026 11:57:20 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nasyxx.nasyxx) -->
