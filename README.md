@@ -15,7 +15,7 @@
 Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?theme=rule34)th vistor!
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C879%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C880%20hrs%201%20min-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.35%20million%20lines%20of%20code-blue?style=flat)
 
@@ -25,20 +25,20 @@ Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?the
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   5 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   40.56 % 
-TypeScript               3 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-HTML                     2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-TeX                      1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Python                   2 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   38.53 % 
+HTML                     2 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   35.74 % 
+TeX                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Lua                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 
 🔥 Editors: 
-OpenCode                 12 hrs 1 min        ████████████████████░░░░░   81.93 % 
-Claude Code              2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-Emacs                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+OpenCode                 5 hrs 4 mins        ███████████████████░░░░░░   75.11 % 
+Emacs                    1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Claude Code              40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
 ```
 
 
- Last Updated on 27/05/2026 08:45:59 UTC
+ Last Updated on 27/05/2026 12:30:54 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nasyxx.nasyxx) -->
