@@ -25,18 +25,18 @@ Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?the
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-HTML                     2 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   41.10 % 
-Python                   2 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   41.03 % 
-Lua                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+HTML                     1 hr 53 mins        ███████████░░░░░░░░░░░░░░   42.14 % 
+Python                   1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   34.59 % 
+Lua                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🔥 Editors: 
-Emacs                    5 hrs 52 mins       █████████████████████████   100.00 % 
+Emacs                    4 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/05/2026 07:47:55 UTC
+ Last Updated on 30/05/2026 10:09:52 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nasyxx.nasyxx) -->
