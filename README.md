@@ -25,18 +25,18 @@ Welcome, the ![nasyxx visitor counter](https://count.getloli.com/get/@nasyxx?the
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Lua                      23 mins             ██████████░░░░░░░░░░░░░░░   39.86 % 
-Other                    19 mins             ████████░░░░░░░░░░░░░░░░░   32.71 % 
-Markdown                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-fish                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Lua                      23 mins             ██████████░░░░░░░░░░░░░░░   40.74 % 
+Other                    19 mins             ████████░░░░░░░░░░░░░░░░░   33.43 % 
+Markdown                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+TOML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-Emacs                    1 hr                █████████████████████████   100.00 % 
+Emacs                    58 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/06/2026 04:50:34 UTC
+ Last Updated on 02/06/2026 09:20:29 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nasyxx.nasyxx) -->
